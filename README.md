@@ -76,7 +76,7 @@
 
 
 ## Demo
-
+![Image](demo.gif)
 
 ## Conclusions
 It is very difficult to pick a winner in this comparison. All three established solutions, minikube, k3d, and kind are very similar to each other. There are some pros and cons for any solution but nothing that really stands out. That’s good because it’s not really possible to choose the wrong tool, either. I like the overall usability of all of these tools, given they address a professional working environment. All of them are fast, easy to install, and quite easy to use.
